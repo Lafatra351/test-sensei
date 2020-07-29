@@ -1,2 +1,2 @@
 # test-sensei
-first test at SAYNA
+projet de recuperation du bug de co sur le plateforme chez moi
